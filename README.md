@@ -72,7 +72,7 @@ vscode에서 (ctrl or command + shift + p) default setting.json 선택
 ```
 
 ** 관련 링크 **
-[eslint](https://eslint.org/) 
-[prettier options](https://prettier.io/docs/en/options.html) 
-[airbnb plugin](https://www.npmjs.com/package/eslint-config-airbnb) 
-[airbnb style guide](https://github.com/airbnb/javascript) 
+[eslint](https://eslint.org/). 
+[prettier options](https://prettier.io/docs/en/options.html). 
+[airbnb plugin](https://www.npmjs.com/package/eslint-config-airbnb). 
+[airbnb style guide](https://github.com/airbnb/javascript). 
